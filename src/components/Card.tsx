@@ -10,8 +10,7 @@ const Card = () => {
 
 return (
   <Wrapper>
-    <Icon src="/test-image.png">
-    </Icon>
+    <Icon src="/test-image.png" />
     <Info>
         <Text>Apollo Running Short</Text>
         <Price>$50.00</Price>
@@ -74,5 +73,4 @@ const Price = styled.div`
     color: #1D1F22;
     cursor: pointer;
 `;
-
 export default Card;
