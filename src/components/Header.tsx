@@ -108,7 +108,7 @@ const UserDropdownContent = styled.div`
         cursor: pointer;
         color: grey;
             &:hover {
-                background-color: grey;
+                background-color: #EEEEEE;
                 color: black;
             }
     }
