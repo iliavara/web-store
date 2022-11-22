@@ -31,6 +31,9 @@ const Wrapper = styled.div`
     height: 444px;
     left: calc(50% - 586px/2 - 427px);
     bottom: 738px;
+    &:hover{
+        box-shadow: 0px 4px 35px rgba(168, 172, 176, 0.19);
+    }
 `;
 const Icon = styled.img`
     display: flex;
