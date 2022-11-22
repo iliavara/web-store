@@ -50,8 +50,11 @@ const Wrapper = styled.div`
   padding: 20px 100px;
 `;
 const Item = styled.div`
-  font-size: 24px;
+  font-size: 16px;
+  line-height: 20px;
   margin-right: 30px;
+  font-family: Raleway;
+  cursor: pointer;
 `;
 const LeftSide = styled.div`
   display: flex;
