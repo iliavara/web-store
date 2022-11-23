@@ -8,7 +8,7 @@ const Landing = () => {
 return (
     <Wrapper>
         <CategoryName>
-            WOMEN
+            Women
         </CategoryName>
         <ProductGrid>
             <Card />
